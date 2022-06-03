@@ -2,7 +2,7 @@
 
 window.onload = start;
 // Change this to match ID in your AirTable.
-const OPENING_SCENE_ID = 'recvreaN6vnL2Tg6x';
+const OPENING_SCENE_ID = 'recq8BPrsiuMMsXCt';
 
 function start() {
     setup();
@@ -14,8 +14,8 @@ function getScene(record_id) {
   // Replace with your own AirTable API key.
   // Normally, you will want to keep this private.
   // This key will only be good for a couple of days.
-  const key = 'keyh9qZLT3k8AN53d';
-  const base_url = 'appHWWBDdvWzOqYNt'; 
+  const key = 'keyJLBdH3ktq1BJ8L';
+  const base_url = 'appCDjghzi3AyZFjp'; 
   // Alter this to match your own AirTable base.
   // URL format is
   // https://api.airtable.com/v0/<BASE_ID>/<TABLE_NAME>/<RECORD_ID>?api_key=<YOUR_API_KEY>
